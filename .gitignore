@@ -1,0 +1,11 @@
+# ---> demo
+/*
+!.gitignore
+!/src/
+!webpack.config.js
+!package.json
+!gulpfile.js
+!/README.md
+.DS_Store
+Thumbs.db
+.svn/
